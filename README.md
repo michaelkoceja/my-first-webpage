@@ -19,7 +19,7 @@ There are currently no known bugs.
 
 ## Support and contact details
 
-If you run into any question or find any bugs, please let us know at michael.koceja@gmail.com and jamesmlannon1990@live.com
+If you run into any question or find any bugs, please letus know at michael.koceja@gmail.com and jamesmlannon1990@live.com
 
 ## Technologies Used
 
